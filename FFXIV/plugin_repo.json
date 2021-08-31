@@ -11,7 +11,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 5,
     "DownloadLinkInstall": "https://github.com/markjsosnowski/OceanFishin/releases/download/v1.1/OceanFishin_v1.1.zip",
     "DownloadLinkTesting": "https://github.com/markjsosnowski/OceanFishin/releases/download/v1.1/OceanFishin_v1.1.zip",
     "DownloadLinkUpdate": "https://github.com/markjsosnowski/OceanFishin/releases/download/v1.1/OceanFishin_v1.1.zip"
