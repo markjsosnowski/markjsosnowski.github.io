@@ -8,7 +8,7 @@
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/markjsosnowski/OceanFishin",
     "DalamudApiLevel": 3,
-    "LoadPriority": 0
+    "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
