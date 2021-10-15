@@ -3,17 +3,17 @@
     "Author": "Sl0nderman",
     "Name": "Ocean Fishin'",
     "InternalName": "OceanFishin",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "2.0.0.0",
     "Description": "Suggests bait while ocean fishing.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/markjsosnowski/OceanFishin",
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 5,
-    "DownloadLinkInstall": "https://github.com/markjsosnowski/OceanFishin/releases/download/v1.1/OceanFishin_v1.1.zip",
-    "DownloadLinkTesting": "https://github.com/markjsosnowski/OceanFishin/releases/download/v1.1/OceanFishin_v1.1.zip",
-    "DownloadLinkUpdate": "https://github.com/markjsosnowski/OceanFishin/releases/download/v1.1/OceanFishin_v1.1.zip"
+    "DownloadLinkInstall": "https://github.com/markjsosnowski/OceanFishin/releases/download/v2.0-beta1/OceanFishing_v2.0-beta1.zip",
+    "DownloadLinkTesting": "https://github.com/markjsosnowski/OceanFishin/releases/download/v2.0-beta1/OceanFishing_v2.0-beta1.zip",
+    "DownloadLinkUpdate": "https://github.com/markjsosnowski/OceanFishin/releases/download/v2.0-beta1/OceanFishing_v2.0-beta1.zip"
   }
 ]
