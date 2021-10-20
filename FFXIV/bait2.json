@@ -1,0 +1,168 @@
+{
+  "Galadion Bay": {
+    "always": {
+      "start": "Krill",
+      "intuition": "Krill"
+    },
+    "Day": {
+      "spectral": "Ragworm",
+      "octopodes": [ "Krill", "Krill" ],
+      "sharks": [ "Plump Worm", "Plump Worm" ]
+    },
+    "Sunset": {
+
+    },
+    "Night": {
+      "spectral": "Krill",
+      "octopodes": [ "Krill", "Krill" ],
+      "sharks": [ "Plump Worm", "Plump Worm" ],
+      "fabled": "Glowworm"
+    }
+  },
+  "The Southern Strait of Merlthor": {
+    "always": {
+      "start": "Krill",
+      "intuition": "Plump Worm"
+    },
+    "Day": {
+      "spectral": "Krill",
+      "jellyfish": [ "Ragworm", "none" ],
+      "dragons": [ "Ragworm", "none" ],
+      "balloons": [ "Krill", "none" ]
+    },
+    "Sunset": {
+      "spectral": "Ragworm",
+      "jellyfish": [ "Ragworm", "Ragworm" ],
+      "dragons": [ "Ragworm", "none" ],
+      "balloons": [ "Krill", "none" ]
+    },
+    "Night": {
+      "spectral": "Ragworm",
+      "jellyfish": [ "Ragworm", "none" ],
+      "dragons": [ "Ragworm", "Ragworm into Mooch Hi-aetherlouse" ],
+      "balloons": [ "Krill", "none" ],
+      "fabled": "Shrip Cage Feeder"
+    }
+  },
+  "The Northern Strait of Merlthor": {
+    "always": {
+      "start": "Ragworm",
+      "intuition": "Ragworm"
+    },
+    "Day": {
+      "spectral": "Plump Worm",
+      "crabs": [ "Krill", "none" ],
+      "balloons": [ "Krill", "none" ],
+      "fabled": "Heavy Steel Jig"
+    },
+    "Sunset": {
+      "spectral": "Krill",
+      "dragons": [ "none", "Ragworm" ],
+      "crabs": [ "Krill", "none" ],
+      "balloons": [ "Krill", "none" ]
+    },
+    "Night": {
+      "spectral": "Krill",
+      "octopodes": [ "none", "Krill" ],
+      "crabs": [ "Krill", "Ragworm" ],
+      "balloons": [ "Krill", "none" ]
+    }
+  },
+  "Rhotano Sea": {
+    "always": {
+      "start": "Plump Worm",
+      "intuition": "Krill"
+    },
+    "Day": {
+      "spectral": "Plump Worm",
+      "sharks": [ "Plump Worm", "Plump Worm" ],
+      "balloons": [ "Ragworm", "Ragworm" ]
+    },
+    "Sunset": {
+      "spectral": "Ragworm",
+      "sharks": [ "Plump Worm", "none" ],
+      "balloons": [ "Ragworm", "Ragworm" ],
+      "fabled": "Rat Tail"
+    },
+    "Night": {
+      "spectral": "Krill",
+      "sharks": [ "Plump Worm", "none" ],
+      "jellyfish": [ "none", "Krill" ],
+      "balloons": [ "Ragworm", "Ragworm" ]
+    }
+  },
+  "The Cieldalaes": {
+    "always": {
+      "start": "Ragworm",
+      "intuition": "Krill"
+    },
+    "Day": {
+      "spectral": "Krill",
+      "balloons": [ "Ragworm", "Ragworm" ],
+      "crabs": [ "Krill", "Krill" ],
+      "mantas": [ "Plump Worm", "Plump Worm" ]
+    },
+    "Sunset": {
+      "spectral": "Plump Worm",
+      "balloons": [ "Ragworm", "Ragworm" ],
+      "crabs": [ "Krill", "Krill" ],
+      "mantas": [ "Plump Worm", "Plump Worm" ]
+    },
+    "Night": {
+      "spectral": "Krill",
+      "balloons": [ "Ragworm", "Ragworm" ],
+      "crabs": [ "Krill", "Krill" ],
+      "mantas": [ "Plump Worm", "Plump Worm" ],
+      "fabled": "Squid Strip"
+    }
+  },
+  "The Bloodbrine Sea": {
+    "always": {
+      "start": "Krill",
+      "intuition": "Krill"
+    },
+    "Day": {
+      "spectral": "Ragworm or Plump Worm",
+      "crabs": [ "Ragworm", "Ragworm" ],
+      "sharks": [ "none", "Plump Worm" ],
+      "fabled": "Pill Bug"
+    },
+    "Sunset": {
+      "spectral": "Plump Worm",
+      "crabs": [ "Ragworm", "none" ],
+      "sharks": [ "none", "Plump Worm" ]
+    },
+    "Night": {
+      "spectral": "Krill or Plump Worm",
+      "crabs": [ "Ragworm", "none" ],
+      "mantas": [ "none", "Krill" ],
+      "sharks": [ "none", "Plump Worm" ]
+    }
+  },
+  "The Rothlyt Sound": {
+    "always": {
+      "start": "Plump Worm",
+      "intuition": "Ragworm"
+    },
+    "Day": {
+      "spectral": "Krill",
+      "balloons": [ "Ragworm", "Krill" ],
+      "mantas": [ "none", "Plump  Worm" ],
+      "jellyfish": [ "Krill", "none" ],
+      "sharks": [ "Krill", "none" ]
+    },
+    "Sunset": {
+      "spectral": "Krill",
+      "balloons": [ "Ragworm", "none" ],
+      "jellyfish": [ "Krill", "none" ],
+      "sharks": [ "Krill", "none" ],
+      "fabled": "Ragworm into Mooch Rothlyt Mussel"
+    },
+    "Night": {
+      "spectral": "Krill",
+      "balloons": [ "Ragworm", "Krill" ],
+      "jellyfish": [ "Krill", "none" ],
+      "sharks": [ "Krill", "none" ]
+    }
+  }
+}
