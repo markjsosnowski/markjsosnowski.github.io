@@ -26,21 +26,21 @@
     },
     "Day": {
       "spectral": "Krill",
-      "jellyfish": [ "Ragworm", "none" ],
-      "dragons": [ "Ragworm", "none" ],
-      "balloons": [ "Krill", "none" ]
+      "jellyfish": [ "Ragworm", null ],
+      "dragons": [ "Ragworm", null ],
+      "balloons": [ "Krill", null ]
     },
     "Sunset": {
       "spectral": "Ragworm",
       "jellyfish": [ "Ragworm", "Ragworm" ],
-      "dragons": [ "Ragworm", "none" ],
-      "balloons": [ "Krill", "none" ]
+      "dragons": [ "Ragworm", null ],
+      "balloons": [ "Krill", null ]
     },
     "Night": {
       "spectral": "Ragworm",
-      "jellyfish": [ "Ragworm", "none" ],
+      "jellyfish": [ "Ragworm", null ],
       "dragons": [ "Ragworm", "Ragworm into Mooch Hi-aetherlouse" ],
-      "balloons": [ "Krill", "none" ],
+      "balloons": [ "Krill", null ],
       "fabled": "Shrip Cage Feeder"
     }
   },
@@ -51,21 +51,21 @@
     },
     "Day": {
       "spectral": "Plump Worm",
-      "crabs": [ "Krill", "none" ],
-      "balloons": [ "Krill", "none" ],
+      "crabs": [ "Krill", null ],
+      "balloons": [ "Krill", null ],
       "fabled": "Heavy Steel Jig"
     },
     "Sunset": {
       "spectral": "Krill",
-      "dragons": [ "none", "Ragworm" ],
-      "crabs": [ "Krill", "none" ],
-      "balloons": [ "Krill", "none" ]
+      "dragons": [ null, "Ragworm" ],
+      "crabs": [ "Krill", null ],
+      "balloons": [ "Krill", null ]
     },
     "Night": {
       "spectral": "Krill",
-      "octopodes": [ "none", "Krill" ],
+      "octopodes": [ null, "Krill" ],
       "crabs": [ "Krill", "Ragworm" ],
-      "balloons": [ "Krill", "none" ]
+      "balloons": [ "Krill", null ]
     }
   },
   "Rhotano Sea": {
@@ -80,14 +80,14 @@
     },
     "Sunset": {
       "spectral": "Ragworm",
-      "sharks": [ "Plump Worm", "none" ],
+      "sharks": [ "Plump Worm", null ],
       "balloons": [ "Ragworm", "Ragworm" ],
       "fabled": "Rat Tail"
     },
     "Night": {
       "spectral": "Krill",
-      "sharks": [ "Plump Worm", "none" ],
-      "jellyfish": [ "none", "Krill" ],
+      "sharks": [ "Plump Worm", null ],
+      "jellyfish": [ null, "Krill" ],
       "balloons": [ "Ragworm", "Ragworm" ]
     }
   },
@@ -124,19 +124,19 @@
     "Day": {
       "spectral": "Ragworm or Plump Worm",
       "crabs": [ "Ragworm", "Ragworm" ],
-      "sharks": [ "none", "Plump Worm" ],
+      "sharks": [ null, "Plump Worm" ],
       "fabled": "Pill Bug"
     },
     "Sunset": {
       "spectral": "Plump Worm",
-      "crabs": [ "Ragworm", "none" ],
-      "sharks": [ "none", "Plump Worm" ]
+      "crabs": [ "Ragworm", null ],
+      "sharks": [ null, "Plump Worm" ]
     },
     "Night": {
       "spectral": "Krill or Plump Worm",
-      "crabs": [ "Ragworm", "none" ],
-      "mantas": [ "none", "Krill" ],
-      "sharks": [ "none", "Plump Worm" ]
+      "crabs": [ "Ragworm", null ],
+      "mantas": [ null, "Krill" ],
+      "sharks": [ null, "Plump Worm" ]
     }
   },
   "The Rothlyt Sound": {
@@ -147,22 +147,22 @@
     "Day": {
       "spectral": "Krill",
       "balloons": [ "Ragworm", "Krill" ],
-      "mantas": [ "none", "Plump  Worm" ],
-      "jellyfish": [ "Krill", "none" ],
-      "sharks": [ "Krill", "none" ]
+      "mantas": [ null, "Plump  Worm" ],
+      "jellyfish": [ "Krill", null ],
+      "sharks": [ "Krill", null ]
     },
     "Sunset": {
       "spectral": "Krill",
-      "balloons": [ "Ragworm", "none" ],
-      "jellyfish": [ "Krill", "none" ],
-      "sharks": [ "Krill", "none" ],
+      "balloons": [ "Ragworm", null ],
+      "jellyfish": [ "Krill", null ],
+      "sharks": [ "Krill", null ],
       "fabled": "Ragworm into Mooch Rothlyt Mussel"
     },
     "Night": {
       "spectral": "Krill",
       "balloons": [ "Ragworm", "Krill" ],
-      "jellyfish": [ "Krill", "none" ],
-      "sharks": [ "Krill", "none" ]
+      "jellyfish": [ "Krill", null ],
+      "sharks": [ "Krill", null ]
     }
   }
 }
