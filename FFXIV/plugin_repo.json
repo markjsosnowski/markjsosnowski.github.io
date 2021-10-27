@@ -20,5 +20,26 @@
     "DownloadLinkInstall": "https://github.com/markjsosnowski/OceanFishin/releases/download/v2.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/markjsosnowski/OceanFishin/releases/download/v2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/markjsosnowski/OceanFishin/releases/download/v2.0/latest.zip"
+  },
+  {
+    "Author": "Sl0nderman",
+    "Name": "Blue Mage Helper",
+    "InternalName": "BlueMageHelper",
+    "AssemblyVersion": "1.0.0.0",
+    "Punchline": "Helps you fill our your Blue Mage Spellbook",
+    "Description": "Adds monster names and coordinates to the \"Where to Learn\" section of your blue mage spellbook.",
+    "Tags": ["spells", "spellbook","blu"],
+    "CategoryTags": ["jobs"],
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/markjsosnowski/BlueMageHelper",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "IconUrl": "https://raw.githubusercontent.com/markjsosnowski/BlueMageHelper/master/icon.png",
+    "DownloadCount": 5,
+    "DownloadLinkInstall": "https://github.com/markjsosnowski/BlueMageHelper/releases/download/1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/markjsosnowski/BlueMageHelper/releases/download/1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/markjsosnowski/BlueMageHelper/releases/download/1.0/latest.zip"
   }
 ]
