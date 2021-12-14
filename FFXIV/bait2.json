@@ -10,7 +10,9 @@
       "sharks": [ "Plump Worm", "Plump Worm" ]
     },
     "Sunset": {
-
+      "spectral": "Plump Worm",
+      "octopodes": [ "Krill", "Krill" ],
+      "sharks": [ "Plump Worm", "Plump Worm" ],
     },
     "Night": {
       "spectral": "Krill",
