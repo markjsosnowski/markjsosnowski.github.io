@@ -1,11 +1,11 @@
 [
   {
     "Author": "Sl0nderman",
-    "Name": "Ocean Fishin'",
+    "Name": "[Custom Repo Testing Version] Ocean Fishin'",
     "InternalName": "OceanFishin",
     "AssemblyVersion": "2.2.0.0",
     "Punchline": "Suggests bait for ocean fishing.",
-    "Description": "THIS IS THE ALPHA TESTING VERSION FROM MY CUSTOM PLUGIN REPO!\nAutomatically recommends bait to use based on your ocean fishing route. \nYou'll get suggestions for spectral fish, fisher's intuition buff, and missions.",
+    "Description": "This version is broken. Please install the Dalamud testing version from the official repo.",
     "Tags": ["fishing","bait","duty"],
     "CategoryTags": ["jobs"],
     "ApplicableVersion": "any",
@@ -23,11 +23,11 @@
   },
   {
     "Author": "Sl0nderman",
-    "Name": "Blue Mage Helper",
+    "Name": "[Custom Repo Testing Version] Blue Mage Helper",
     "InternalName": "BlueMageHelper",
     "AssemblyVersion": "1.0.0.0",
     "Punchline": "Helps you fill our your Blue Mage Spellbook",
-    "Description": "Adds monster names and coordinates to the \"Where to Learn\" section of your blue mage spellbook.",
+    "Description": "This version is up to date with the Dalamud testing version in the official repo.",
     "Tags": ["spells", "spellbook","blu"],
     "CategoryTags": ["jobs"],
     "ApplicableVersion": "any",
