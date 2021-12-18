@@ -1,7 +1,7 @@
 [
   {
     "Author": "Sl0nderman",
-    "Name": "[Custom Repo Testing Version] Ocean Fishin'",
+    "Name": "Ocean Fishin' (Custom Repo Testing Version)",
     "InternalName": "OceanFishin",
     "AssemblyVersion": "2.2.0.0",
     "Punchline": "Suggests bait for ocean fishing.",
@@ -23,7 +23,7 @@
   },
   {
     "Author": "Sl0nderman",
-    "Name": "[Custom Repo Testing Version] Blue Mage Helper",
+    "Name": "Blue Mage Helper (Custom Repo Testing Version)",
     "InternalName": "BlueMageHelper",
     "AssemblyVersion": "1.0.0.0",
     "Punchline": "Helps you fill our your Blue Mage Spellbook",
